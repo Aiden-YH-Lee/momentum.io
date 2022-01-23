@@ -1,0 +1,14 @@
+.hidden {
+  display: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
