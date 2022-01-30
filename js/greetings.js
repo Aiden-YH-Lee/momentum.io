@@ -11,7 +11,7 @@ function onLoginSubmit(event) {
 }
 
 function getGreeting(name) { 
-  greeting.innerText = `Hello ${name}`;
+  greeting.innerText = `Hello ${name}!`;
   greeting.classList.remove("hidden");
 }
 
